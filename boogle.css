@@ -1,0 +1,59 @@
+#top-navbar {
+	position: fixed;
+	top: 0px;
+	/*
+	background-color: aqua;*/
+	width: 100%;
+	left: 0px;
+}
+
+#nav-upper-right {
+  float: right;
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+}
+
+li {
+	padding: 20px;
+}
+
+#profilka {
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+}
+
+#bottom-navbar {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	left: 0px;
+}
+
+#nav-bottom-right {
+float: right;
+list-style-type: none;
+}
+
+#nav-bottom-left {
+float: left;
+list-style-type: none;
+}
+
+#cover {
+	position: absolute;
+	top: 20%;
+    margin-left: 33%;
+}
+
+#fotka {
+	width: 700px;
+	}
+
+body {
+	font-family: Arial;
+}
+
